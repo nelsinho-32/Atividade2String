@@ -37,6 +37,6 @@ Atividade2String/
 
 ## Autor
 
-- Desenvolvido: [Nelson Nunes]
-- Docente: [Rhavy Maia]
 - Atividade para a disciplina de Linguagem de Script - IFPB Guarabira
+- Desenvolvido: Nelson Nunes
+- Docente: Rhavy Maia
